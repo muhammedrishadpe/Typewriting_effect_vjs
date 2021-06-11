@@ -1,0 +1,1 @@
+const text = ['website', 'illustration', 'pancakes'];
